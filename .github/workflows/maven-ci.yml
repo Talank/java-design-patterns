@@ -57,4 +57,5 @@ jobs:
           - ubuntu-latest
           - windows-latest
           - macos-latest
+          - macos-15-intel
       fail-fast: false
